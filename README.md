@@ -1,4 +1,6 @@
-🧠 Two-player local gameplay
+*Tic-Tac-Toe-Game*
+
+🧠 Two-player  gameplay
 
 📱 Responsive design for desktop 
 
